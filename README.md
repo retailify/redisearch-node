@@ -14,4 +14,4 @@ First of all, we have to say thank you for the monkey patch of [node-redis-raw](
 
 ## Copyright
 
-Thomas Meitz
+(c) 2019 Thomas Meitz
