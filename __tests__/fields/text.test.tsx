@@ -1,4 +1,4 @@
-import { TextField } from '../src/fields';
+import { TextField } from '../../src/fields';
 
 test('text field with default args', () => {
   const field = new TextField('test');

@@ -1,4 +1,4 @@
-import { NumericField } from '../src/fields';
+import { NumericField } from '../../src/fields';
 
 test('geo field', () => {
   const field = new NumericField('test');

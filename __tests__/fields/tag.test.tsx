@@ -1,4 +1,4 @@
-import { TagField } from '../src/fields';
+import { TagField } from '../../src/fields';
 
 test('tag field', () => {
   const field = new TagField('test');

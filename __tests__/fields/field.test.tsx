@@ -1,4 +1,4 @@
-import { Field } from '../src/fields';
+import { Field } from '../../src/fields';
 
 test('field without args', () => {
   const field = new Field('test');
