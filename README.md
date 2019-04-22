@@ -1,5 +1,7 @@
 # redisearch-node
 
+[![Build Status](https://travis-ci.org/retailify/redisearch-node.svg?branch=master)](https://travis-ci.org/retailify/redisearch-node)
+
 [Redisearch](https://oss.redislabs.com/redisearch/) node client
 
 ## Attention
